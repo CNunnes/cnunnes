@@ -1,12 +1,12 @@
 # 👩‍💻 Olá! Eu sou a Clecia
 
-**Professora de Informática na Rede Municipal de Ensino de Blumenau (SC)**  
+**Professora de Computação na Rede Municipal de Ensino de Blumenau (SC)**  
 🎓 **Estudante de Ciência da Computação**
 
 ---
 
 🌟 **Quem sou eu?**
-Sou apaixonada por educação e tecnologia. Atuo como professora de Informática com turmas do 1º ao 7º ano, promovendo o uso consciente e criativo das tecnologias em sala de aula. Acredito no poder da programação e do pensamento computacional para transformar a aprendizagem.
+Sou apaixonada por educação e tecnologia. Atuo como professora de Computação com turmas do 1º ao 7º ano, promovendo o uso consciente e criativo das tecnologias em sala de aula. Acredito no poder da programação e do pensamento computacional para transformar a aprendizagem.
 
 ---
 
